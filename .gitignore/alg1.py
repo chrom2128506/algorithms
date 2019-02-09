@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[46]:
+
+
+import numpy as np 
+
 f = open('zerosones.txt', 'r')
 s = f.read()
 #print(s)
@@ -15,3 +23,22 @@ for i in range(len(s)):
     
 print(length)
 f.close()
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
