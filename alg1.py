@@ -6,7 +6,7 @@
 
 import numpy as np 
 
-f = open('zerosones.txt', 'r')
+f = open('input.txt', 'r')
 s = f.read()
 #print(s)
 #print(len(s))
